@@ -1,6 +1,6 @@
 # 🛍️ Blog Personal Servicios
 
-![Vista previa del proyecto](./screenshots/1) <!-- Puedes subir una imagen y cambiar el nombre -->
+![Vista previa del proyecto](./screenshots/1.png) <!-- Puedes subir una imagen y cambiar el nombre -->
 
 ## 📋 Descripción
 
@@ -16,8 +16,8 @@ Este es un proyecto de frontend que representa un blog personal dando a conocer 
 - Blog personal
 - Tarjetas con efectos para mostrar los servicios
 - Animaciones
-![Apartado de articulos](./screenshots/2)
-![Menu desplegable de redes sociales](./screenshots/menudesp)
+![Apartado de articulos](./screenshots/2.png)
+![Menu desplegable de redes sociales](./screenshots/menudesp.png)
 
 ## 💻 Cómo verlo
 
