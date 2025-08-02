@@ -17,6 +17,7 @@ Este es un proyecto de frontend que representa un blog personal dando a conocer 
 - Tarjetas con efectos para mostrar los servicios
 - Animaciones
 ![Apartado de articulos](./screenshots/2.png)
+# Menu de redes desplegable
 ![Menu desplegable de redes sociales](./screenshots/menudesp.png)
 
 ## 💻 Cómo verlo
