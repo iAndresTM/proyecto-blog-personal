@@ -4,7 +4,7 @@
 
 ## 📋 Descripción
 
-Este es un proyecto de frontend que representa una tienda en línea de ropa. Cuenta con un diseño moderno y responsive, una sección de catálogo, vista de productos y simulación de carrito de compras.
+Este es un proyecto de frontend que representa un blog personal dando a conocer los servicios que se ofrece como desarrollador
 
 ## 🚀 Tecnologías utilizadas
 
