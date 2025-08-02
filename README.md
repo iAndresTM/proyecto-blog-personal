@@ -1,4 +1,4 @@
-# 🛍️ Nombre del Proyecto (por ejemplo: Tienda de Ropa)
+# 🛍️ Blog Personal Servicios
 
 ![Vista previa del proyecto](./screenshots/1) <!-- Puedes subir una imagen y cambiar el nombre -->
 
