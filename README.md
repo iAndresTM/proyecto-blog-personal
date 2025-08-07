@@ -28,4 +28,4 @@ Puedes ver el proyecto en vivo aquí:
 O clona el repositorio para ejecutarlo localmente:
 
 ```bash
-git clone https://github.com/iAndresTM/nombre-del-repositorio.git
+git clone https://github.com/iAndresTM/proyecto-blog-personal.git
